@@ -18,16 +18,22 @@ PlateMate is a cross-platform mobile application built with Flutter that aims to
 - **Multi-Platform Support:** Runs seamlessly on Android and iOS.
 - **Community Impact:** See your contribution statistics and impact in-app.
 
-## Screenshots & Demo
+## Screenshots
 
-| Screen            | Preview & URL |
-|-------------------|--------------|
-| **Login**         | [Login Screen](https://drive.google.com/file/d/1ng5I2ZKh5cQcKCTprrzL-AJ5DIvBBt_F/view?usp=sharing) |
-| **Home**          | [Home Screen](https://drive.google.com/file/d/1Wt7nUd5qSfNba5LWMnz5vU1H6ffdWbUP/view?usp=drive_link) |
-| **Add Food**      | [Add Food Screen](https://drive.google.com/file/d/1l5kCvKtUvoy5KTFwTgaM4TOSs0Ock4m_/view?usp=sharing) |
-| **AI Assistant**  | [AI Assistant Screen](https://drive.google.com/file/d/1RhXhM5JsCqL1uHyBeWsZcr9ew-bg6AHh/view?usp=drive_link) |
-| **Profile**       | [Profile Screen](https://drive.google.com/file/d/1udyNdhjSheECMQ0uksVqoCXtsbH3npzz/view?usp=drive_link) |
-| **Request Food**  | [Request Food Screen](https://drive.google.com/file/d/1qRLzBcnlw-QyzAVZzzE7eRvTdvxNn4yE/view?usp=drive_link) |
+| Login Screen | Home Screen | Add Food | AI Assistant | Profile | Request Food |
+|--------------|-------------|----------|--------------|---------|--------------|
+| ![Login Screen](https://drive.google.com/uc?id=1ng5I2ZKh5cQcKCTprrzL-AJ5DIvBBt_F) | ![Home Screen](https://drive.google.com/uc?id=1Wt7nUd5qSfNba5LWMnz5vU1H6ffdWbUP) | ![Add Food](https://drive.google.com/uc?id=1l5kCvKtUvoy5KTFwTgaM4TOSs0Ock4m_) | ![AI Assistant](https://drive.google.com/uc?id=1RhXhM5JsCqL1uHyBeWsZcr9ew-bg6AHh) | ![Profile](https://drive.google.com/uc?id=1udyNdhjSheECMQ0uksVqoCXtsbH3npzz) | ![Request Food](https://drive.google.com/uc?id=1qRLzBcnlw-QyzAVZzzE7eRvTdvxNn4yE) |
+
+> [View full-size screenshots and demo links below:](#demo-links)
+
+## Demo Links
+
+- [Login Screen](https://drive.google.com/file/d/1ng5I2ZKh5cQcKCTprrzL-AJ5DIvBBt_F/view?usp=sharing)
+- [Home Screen](https://drive.google.com/file/d/1Wt7nUd5qSfNba5LWMnz5vU1H6ffdWbUP/view?usp=drive_link)
+- [Add Food Screen](https://drive.google.com/file/d/1l5kCvKtUvoy5KTFwTgaM4TOSs0Ock4m_/view?usp=sharing)
+- [AI Assistant Screen](https://drive.google.com/file/d/1RhXhM5JsCqL1uHyBeWsZcr9ew-bg6AHh/view?usp=drive_link)
+- [Profile Screen](https://drive.google.com/file/d/1udyNdhjSheECMQ0uksVqoCXtsbH3npzz/view?usp=drive_link)
+- [Request Food Screen](https://drive.google.com/file/d/1qRLzBcnlw-QyzAVZzzE7eRvTdvxNn4yE/view?usp=drive_link)
 
 ## Why PlateMate?
 
